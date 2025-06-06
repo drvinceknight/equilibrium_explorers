@@ -1,2 +1,13 @@
-# equilibrium_explorers
-The Game Theory Discord Server
+# Equilibrium Explorers
+
+The Game Theory Discord Server.
+
+![](./logo.png)
+
+## Joining Instructions
+
+Join [here]().
+
+## About
+
+We aim to bring together hobbyists, educators, students, researchers, and developers to learn, share, and collaborate across all areas of game theory.
