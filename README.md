@@ -6,7 +6,7 @@ The Game Theory Discord Server.
 
 ## Joining Instructions
 
-Join [here]().
+Join [here](https://discord.gg/NfTAkhAeyc).
 
 ## About
 
